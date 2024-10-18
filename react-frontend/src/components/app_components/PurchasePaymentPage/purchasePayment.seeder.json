@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "branchId": 101,
+        "purchaseId": 1001,
+        "date": 45047,
+        "amount": 500,
+        "accountId": 2001,
+        "paymentMethod": "Bank Transfer",
+        "reference": "PUR12345",
+        "description": "Payment for purchase 1001",
+        "receiptPath": "/files/purchase_receipt.pdf",
+        "createdAt": 45581,
+        "updatedAt": 45581
+    }
+]

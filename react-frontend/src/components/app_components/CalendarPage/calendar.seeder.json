@@ -1,0 +1,12 @@
+[
+    {
+        "id": 2,
+        "title": "Team Building",
+        "startDate": 45153,
+        "endDate": 45155,
+        "description": "Outdoor team-building activities for employees.",
+        "branchId": 102,
+        "createdAt": 45581,
+        "updatedAt": 45581
+    }
+]

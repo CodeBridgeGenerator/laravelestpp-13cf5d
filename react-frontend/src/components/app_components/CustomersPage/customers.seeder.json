@@ -1,0 +1,19 @@
+[
+    {
+        "id": 1,
+        "userId": 1,
+        "branchId": 1,
+        "customerType": 1,
+        "name": "Luqman Fikry",
+        "email": "luqman@vxbrands.co",
+        "phoneNumber": 60128535011,
+        "icNo": 60128535011,
+        "dob": 45581,
+        "balance": 20.2,
+        "taxNo": "IG 500000255XX0",
+        "otherInfo": "Good customer",
+        "rememberToken": "r5t44%$46fg2fgd",
+        "createdAt": "2024-10-16 08:58:04",
+        "updatedAt": "2024-10-16 08:58:04"
+    }
+]

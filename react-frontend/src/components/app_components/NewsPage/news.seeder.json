@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "title": "Annual Meeting",
+        "startDate": 45108,
+        "endDate": 45109,
+        "description": "Company-wide annual meeting for all branches.",
+        "branchId": 101,
+        "createdAt": 45581,
+        "updatedAt": 45581
+    }
+]

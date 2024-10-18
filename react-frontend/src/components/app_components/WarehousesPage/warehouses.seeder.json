@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "branchId": 101,
+        "name": "Branch A",
+        "address": "123 Main St",
+        "city": "City X",
+        "zipcode": 10001,
+        "createdAt": 45581,
+        "updatedAt": 45581
+    },
+    {
+        "id": 2,
+        "branchId": 102,
+        "name": "Branch B",
+        "address": "456 Oak St",
+        "city": "City Y",
+        "zipcode": 10002,
+        "createdAt": 45581,
+        "updatedAt": 45581
+    },
+    {
+        "id": 3,
+        "branchId": 103,
+        "name": "Branch C",
+        "address": "789 Pine St",
+        "city": "City Z",
+        "zipcode": 10003,
+        "createdAt": 45581,
+        "updatedAt": 45581
+    },
+    {
+        "id": 4,
+        "branchId": 104,
+        "name": "Branch D",
+        "address": "101 Maple St",
+        "city": "City W",
+        "zipcode": 10004,
+        "createdAt": 45581,
+        "updatedAt": 45581
+    },
+    {
+        "id": 5,
+        "branchId": 105,
+        "name": "Branch E",
+        "address": "202 Elm St",
+        "city": "City V",
+        "zipcode": 10005,
+        "createdAt": 45581,
+        "updatedAt": 45581
+    }
+]

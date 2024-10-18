@@ -1,0 +1,21 @@
+[
+    {
+        "id": 1,
+        "customerId": 1,
+        "branchId": 1,
+        "shippingAddress1": "NO 19",
+        "shippingAddress2": "Jalan Dahlia 56",
+        "shippingAddress3": "Taman Dahlia",
+        "shippingCity": "Sepang",
+        "shippingState": "Selangor",
+        "postalCode": 34000,
+        "billingAddress1": "H-5-10",
+        "billingAddress2": "Desa Perwira",
+        "billingAddress3": "Jalan Uthant",
+        "billingCity": "Dato Keramat",
+        "billingState": "kuala_lumpur",
+        "postalCode1": 54600,
+        "createdAt": "2024-10-16 08:58:04",
+        "updatedAt": "2024-10-16 08:58:04"
+    }
+]

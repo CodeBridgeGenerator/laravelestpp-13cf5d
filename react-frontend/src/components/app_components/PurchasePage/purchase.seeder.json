@@ -1,0 +1,15 @@
+[
+    {
+        "id": 1,
+        "branchId": 101,
+        "vendorId": 3001,
+        "warehouseId": 4001,
+        "purchaseType": "Wholesale",
+        "date": 45047,
+        "status": "Completed",
+        "categoryId": 5001,
+        "createdBy": 1,
+        "createdAt": 45581,
+        "updatedAt": 45581
+    }
+]

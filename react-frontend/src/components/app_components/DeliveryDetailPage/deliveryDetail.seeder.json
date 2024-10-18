@@ -1,0 +1,11 @@
+[
+    {
+        "id": 1,
+        "deliveryId": 1001,
+        "productId": 2001,
+        "variationId": 3001,
+        "deliveredQty": 5,
+        "createdAt": 45581,
+        "updatedAt": 45581
+    }
+]

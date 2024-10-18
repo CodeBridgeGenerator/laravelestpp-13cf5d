@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "User A",
+        "status": "active",
+        "address": "123 Main St",
+        "createdAt": 45581,
+        "updatedAt": 45581
+    },
+    {
+        "id": 2,
+        "name": "User B",
+        "status": "inactive",
+        "address": "456 Oak St",
+        "createdAt": 45581,
+        "updatedAt": 45581
+    },
+    {
+        "id": 3,
+        "name": "User C",
+        "status": "active",
+        "address": "789 Pine St",
+        "createdAt": 45581,
+        "updatedAt": 45581
+    },
+    {
+        "id": 4,
+        "name": "User D",
+        "status": "inactive",
+        "address": "101 Maple St",
+        "createdAt": 45581,
+        "updatedAt": 45581
+    },
+    {
+        "id": 5,
+        "name": "User E",
+        "status": "active",
+        "address": "202 Elm St",
+        "createdAt": 45581,
+        "updatedAt": 45581
+    }
+]

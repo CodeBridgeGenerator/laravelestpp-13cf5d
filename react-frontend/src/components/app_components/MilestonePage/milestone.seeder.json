@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "projectId": 1001,
+        "name": "Project A",
+        "status": "In Progress",
+        "cost": 50000,
+        "progress": 75,
+        "startDate": 45047,
+        "endDate": 45199,
+        "createdAt": 45581,
+        "updatedAt": 45581
+    }
+]

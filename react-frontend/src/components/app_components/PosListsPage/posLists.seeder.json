@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "branchId": 101,
+        "warehouseId": 201,
+        "name": "Warehouse A",
+        "userIds": "1,2,3",
+        "status": "active",
+        "createdAt": 45581,
+        "updatedAt": 45581
+    },
+    {
+        "id": 2,
+        "branchId": 102,
+        "warehouseId": 202,
+        "name": "Warehouse B",
+        "userIds": "4,5",
+        "status": "inactive",
+        "createdAt": 45581,
+        "updatedAt": 45581
+    },
+    {
+        "id": 3,
+        "branchId": 103,
+        "warehouseId": 203,
+        "name": "Warehouse C",
+        "userIds": "6,7,8",
+        "status": "active",
+        "createdAt": 45581,
+        "updatedAt": 45581
+    },
+    {
+        "id": 4,
+        "branchId": 104,
+        "warehouseId": 204,
+        "name": "Warehouse D",
+        "userIds": 9,
+        "status": "inactive",
+        "createdAt": 45581,
+        "updatedAt": 45581
+    },
+    {
+        "id": 5,
+        "branchId": 105,
+        "warehouseId": 205,
+        "name": "Warehouse E",
+        "userIds": "10,11,12",
+        "status": "active",
+        "createdAt": 45581,
+        "updatedAt": 45581
+    }
+]

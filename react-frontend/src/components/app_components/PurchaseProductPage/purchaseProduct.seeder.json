@@ -1,0 +1,15 @@
+[
+    {
+        "id": 1,
+        "branchId": 101,
+        "purchaseId": 1001,
+        "productId": 2001,
+        "variationId": 3001,
+        "quantity": 10,
+        "price": 150,
+        "tax": 9,
+        "discount": 5,
+        "createdAt": 45581,
+        "updatedAt": 45581
+    }
+]

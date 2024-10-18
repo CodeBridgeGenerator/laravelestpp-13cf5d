@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "branchId": 1,
+        "productId": 1,
+        "name": "Single",
+        "subSku": "SS001",
+        "purchasePrice": 0,
+        "sellPrice": 1,
+        "imagePath": "uploads/documents/112233.png"
+    }
+]

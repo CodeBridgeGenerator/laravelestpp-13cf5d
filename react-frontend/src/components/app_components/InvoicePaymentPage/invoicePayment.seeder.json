@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "branchId": 101,
+        "invoiceId": 1001,
+        "date": 45078,
+        "amount": 250,
+        "accountId": 2001,
+        "paymentMethod": "Credit Card",
+        "reference": "REF12345",
+        "description": "Payment for invoice 1001",
+        "receiptPath": "/files/receipt.pdf",
+        "createdAt": 45581,
+        "updatedAt": 45581
+    }
+]

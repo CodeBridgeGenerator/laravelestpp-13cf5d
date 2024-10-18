@@ -1,0 +1,10 @@
+[
+    {
+        "id": 1,
+        "branchId": 101,
+        "name": "Branch X",
+        "accountId": 4001,
+        "createdAt": 45581,
+        "updatedAt": 45581
+    }
+]

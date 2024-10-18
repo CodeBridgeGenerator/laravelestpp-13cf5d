@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "date": 45047,
+        "reference": "REF12345",
+        "description": "Transaction for invoice",
+        "branchId": 101,
+        "accountId": 2001,
+        "modelType": "Invoice",
+        "modelId": 3001,
+        "type": "Debit",
+        "debit": 250,
+        "credit": 0,
+        "createdAt": 45581,
+        "updatedAt": 45581
+    }
+]

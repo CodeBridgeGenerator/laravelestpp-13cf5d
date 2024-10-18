@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "branchId": 101,
+        "modelType": "Type A",
+        "modelId": 5001,
+        "deliveryAddress": "123 Main St",
+        "receiverName": "John Doe",
+        "receiverPhone": "123-456-7890",
+        "attachmentPath": "/files/receipt.pdf",
+        "deliveryMethod": "Courier",
+        "deliveryNote": "Handle with care",
+        "deliveryStatus": "Delivered",
+        "consignmentNo": "CN12345",
+        "consignmentBy": "DHL",
+        "deliveryDate": 45581,
+        "createdAt": 45581,
+        "updatedAt": 45581
+    }
+]

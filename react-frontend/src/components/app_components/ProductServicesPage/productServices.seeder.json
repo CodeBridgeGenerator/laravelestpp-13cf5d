@@ -1,0 +1,15 @@
+[
+    {
+        "id": 1,
+        "branchId": 1,
+        "sku": "NKA-0001",
+        "name": "Nail Clipper",
+        "type": "product",
+        "categoryId": 1,
+        "unitId": 1,
+        "stockQuantity": 200,
+        "description": "Customer Favorite",
+        "createdAt": "2024-10-16 08:58:04",
+        "updatedAt": "2024-10-16 08:58:04"
+    }
+]

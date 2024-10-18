@@ -1,0 +1,15 @@
+[
+    {
+        "id": 1,
+        "title": "Bantuan Rahmah 5.0",
+        "type": "assistance",
+        "startDate": 45581,
+        "endDate": 45585,
+        "description": "Bantuan untuk rakyat yang layak berpandukan syarat-syarat kelayakan",
+        "status": "created",
+        "projectProgress": "not_started",
+        "branchId": 1,
+        "createdAt": 45581.69097222222,
+        "updatedAt": 45581.69097222222
+    }
+]
